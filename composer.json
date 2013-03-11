@@ -1,0 +1,13 @@
+{
+    "name": "openhost/onm-cache",
+    "description": "A cache layer for PHP with support for multiple backends",
+    "authors": [
+        {
+            "name": "OpenHost Developers",
+            "email": "developers@openhost.es"
+        }
+    ],
+    "require": {
+
+    }
+}
